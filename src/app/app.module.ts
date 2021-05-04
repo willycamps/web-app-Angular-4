@@ -10,6 +10,7 @@ import { HomeComponent } from './components/home/home.component';
 
 import { appRoutes } from '../routes'
 
+
 @NgModule({
   declarations: [
     AppComponent,

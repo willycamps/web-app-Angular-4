@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./aboutus.component.css']
 })
 export class AboutusComponent implements OnInit {
-  title = 'Gallery';
+  title = 'About Us';
 
   filterBoats(){
-    console.log("Boats!")
+    console.log("About Us!")
   }
 
   constructor() { }
